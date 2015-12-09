@@ -1,7 +1,7 @@
 name: Dylan Vaughn
 favicon: null
-layout_spectrum: 0.9495657389052212
-typography_spectrum: 0.2249341404531151
+layout_spectrum: 0.90868
+typography_spectrum: 0.76131
 title: 'Dylan Vaughn, Musician'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#0e0e10'
+    - '#90c9ff'
+    - '#e9f2fb'
+    - '#8e877f'
+    - '#484649'
   brandStrength: 0.4071698319166899
   lightness: 0.19839906436391175
   saturation: 0.3812635079957545
