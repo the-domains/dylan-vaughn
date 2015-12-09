@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Musician extraordinaire
-datePublished: '2015-12-09T18:45:08.086Z'
-dateModified: '2015-12-09T18:44:58.908Z'
+datePublished: '2015-12-09T18:54:58.344Z'
+dateModified: '2015-12-09T18:54:52.865Z'
 title: Welcome to Dylan Vaughn.com
 author: []
 sourcePath: _posts/2015-12-09-welcome-to-dylan-vaughncom.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: welcome-to-dylan-vaughncom/index.html
+_type: Article
 
 ---
 **Dear Friends, **
