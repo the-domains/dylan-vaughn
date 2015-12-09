@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dylan Vaughn, Musician]]></title>
+        <description><![CDATA[Dylan Vaughn, Musician]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 18:54:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Dylan Vaughn.com]]></title>
+            <description><![CDATA[<article><h1>Welcome to Dylan Vaughn.com</h1><p>Dear Friends, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c5e8253855170b7a6ed71557bb16c0bf92ae432.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-dylan-vaughncom/index.html</link>
+            <guid isPermaLink="false">893292a5-770a-409a-86fb-660dea6c7d3d</guid>
+            <pubDate>Wed, 09 Dec 2015 18:54:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
