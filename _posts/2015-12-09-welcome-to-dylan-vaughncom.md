@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musician extraordinaire
-datePublished: '2015-12-09T18:19:41.551Z'
-dateModified: '2015-12-09T18:19:26.152Z'
+datePublished: '2015-12-09T18:21:35.919Z'
+dateModified: '2015-12-09T18:21:29.283Z'
 title: Welcome to Dylan Vaughn.com
 author: []
 authors: []
